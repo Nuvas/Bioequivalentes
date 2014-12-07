@@ -1,0 +1,3 @@
+"Producto" "Precio_Neto" "Fecha_Aceptacion" "Nombre_Proveedor" "Nombre_Comprador" "Orden_Compra" " Licitacion"
+"1" "Anastrozol" 590 "2014-06-24T16:17:34.837" "LABORATORIOS RIDER LTDA." "Instituto Nacional del Cancer" "359-1479-SE14" "359-71-LE14"
+"2" "Anastrozol" 410 "2014-02-28T08:33:14.327" "LABORATORIOS RIDER LTDA." "Central de Abastecimiento S.N.S.S. -  CENABAST" "621-28-SE14" "621-468-LP13"
